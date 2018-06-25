@@ -1,0 +1,25 @@
+/**
+ * The stylesheet for admin dashboard
+ */
+
+/*--------------------------------------------------------------
+# Forms
+--------------------------------------------------------------*/
+.scwd-form { border: 1px solid #e5e5e5; background: #fff; }
+
+/*--------------------------------------------------------------
+# Bootsrap ISO
+--------------------------------------------------------------*/
+.bootstrap-iso { position: relative; }
+
+/*--------------------------------------------------------------
+# Flash Message
+--------------------------------------------------------------*/
+.gmb-flash-msg { display: none; padding: 0 !important; position: absolute !important; top: -50px; }
+
+/*--------------------------------------------------------------
+# Shortcode Generator
+--------------------------------------------------------------*/
+#scwd-generator-form { padding-top: 15px; }
+#shortcode-result .form-control { background: #fff; }
+
